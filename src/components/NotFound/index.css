@@ -1,0 +1,27 @@
+.thirdContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.thirdContainer > img {
+  margin-bottom: 10px;
+  margin-top: 130px;
+  width: 450px;
+}
+
+.thirdContainer > h1 {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: -10px;
+}
+
+.thirdContainer > p {
+  color: #64748b;
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 400;
+}
